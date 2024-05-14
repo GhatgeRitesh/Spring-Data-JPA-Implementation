@@ -1,4 +1,4 @@
-package com.example.demo.Model;
+package com.example.demo.Entity;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.util.Streamable;
@@ -15,6 +15,7 @@ public class UserDAO {
 
     @Autowired
     private UserRepository userRepository;
+
 
     public void save(UserEntity userEntity)
     {

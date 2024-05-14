@@ -1,7 +1,7 @@
 package com.example.demo;
 
-import com.example.demo.Model.UserDAO;
-import com.example.demo.Model.UserEntity;
+import com.example.demo.Entity.UserDAO;
+import com.example.demo.Entity.UserEntity;
 import lombok.extern.java.Log;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

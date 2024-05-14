@@ -1,4 +1,4 @@
-package com.example.demo.Model;
+package com.example.demo.Entity;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
